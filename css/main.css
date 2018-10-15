@@ -36,16 +36,18 @@ h2 {
 }
 
 a {
-  padding: .5em;
-  margin: 1.5em 0;
   text-decoration: none;
-  border-radius: 7px;
-  border: 3px solid #333;
-  color: black;
 }
-
-a:hover {
+.btn:hover {
   background-color: #666;
   color: #fff;
   border: none;
+}
+
+.btn {
+  padding: .5em;
+  margin: 1.5em 0;
+  border-radius: 7px;
+  border: 3px solid #333;
+  color: black;
 }
