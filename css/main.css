@@ -10,12 +10,14 @@ body {
   background-color: #eee9de;
   font-family: Lato, sans-serif;
   line-height: 1.5;
+  margin: 0rem;
 }
 
 img {
   width: 100%;
   max-width: 25em;
-  display: inline-block;
+  display: block;
+  padding: 0.5em;
 }
 
 .image {
@@ -29,6 +31,7 @@ img {
   max-width: 25em;
   padding: 0 .5em .5em;
   margin: 0;
+  text-align: left;
 }
 
 h2 {
@@ -50,4 +53,5 @@ a {
   border-radius: 7px;
   border: 3px solid #333;
   color: black;
+  text-align: center;
 }
