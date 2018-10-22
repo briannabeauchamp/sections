@@ -20,7 +20,7 @@ img {
 
 .image {
   display: inline-block;
-  padding: 1em .75em .5em;
+  padding: 1em;
   max-width: 25em;
   width: 100%;
   vertical-align: middle;
